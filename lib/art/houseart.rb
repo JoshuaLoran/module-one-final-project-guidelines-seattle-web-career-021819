@@ -2,7 +2,7 @@ class HouseArt
 
 ##############give credit to artist and website
 def self.display
-  puts <<~HOUSE
+  puts <<~'HOUSE'
   *                             |>>>                    +
   +          *                      |                   *       +
                       |>>>      _  _|_  _   *     |>>>

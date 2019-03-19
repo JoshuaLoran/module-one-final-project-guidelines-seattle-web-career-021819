@@ -3,7 +3,7 @@ class Dragon
 	####### Be sure to give credit to Tua Xiong and Christopher Johnsons ascii art website #######
 
 	def self.display
-		puts <<~DRAGON
+		puts <<~'DRAGON'
                                         $,  $,     ,
                                         "ss.$ss. .s'
                                 ,     .ss$$$$$$$$$$s,
@@ -50,4 +50,4 @@ class Dragon
 ------------------------------------------------
 DRAGON
   end
-end 
+end
